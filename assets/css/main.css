@@ -2436,13 +2436,7 @@
 				width: 100%;
 			}
 
-		.features article .video {
-			display: inline-block;
-			padding-right: 2.5em;
-			vertical-align: middle;
-			width: 48%;
-		}
-			.features article .video video {
+			.features article .image video {
 				display: block;
 				width: 100%;
 			}
